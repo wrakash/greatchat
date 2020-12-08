@@ -69,7 +69,7 @@ function App() {
       <div className="owner">
         <p>Created by Akash</p>
         <img  src={owner} />
-        </div>
+      </div>
     </div>
   );
 }
