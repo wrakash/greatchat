@@ -1,1 +1,1 @@
-web: node react-scripts.js
+web: npm start
